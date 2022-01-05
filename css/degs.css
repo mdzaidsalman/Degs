@@ -24,6 +24,7 @@
 .hemant{
     width: 100%;
     height: auto;
+    margin-left: 30px;
 }
 
 @media(max-width:400px){
