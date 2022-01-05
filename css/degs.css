@@ -3,13 +3,13 @@ body{
 }
 
 .container{
-    width: 100%;
+    width: auto;
     height: auto;
     display: flex;
 }
 .logo{
-    margin-left: 60px;
-    width: auto; 
+    margin-left: 30px;
+    width: 100%; 
     
 
 }
@@ -17,8 +17,8 @@ body{
 .text{
    margin-left: 100px;
    color: blue;
-   height: 114px;
-   width: auto;
+   height:auto;
+   width: 100%;
 
 }
 
