@@ -28,17 +28,17 @@
 
 @media(max-width:400px){
   .logo{
-    height: 40px;
+    width: 60%;
   }
 }
 @media(max-width:400px){
   .text{
-    height: 40px;
+    width: 60%;
   }
 }
 
 @media(max-width:400px){
   .hemant{
-    height: 40px;
+    width: 60%;
   }
 }
