@@ -17,17 +17,17 @@
 .text{
   height: auto;
   width: 100%;
-  margin-left: 30px;
+  margin-left: 70px;
 
 }
 
 .hemant{
     width: 100%;
     height: auto;
-    margin-left: 30px;
+    margin-left: 40px;
 }
 
-@media(max-width:600px){
+@media(max-width:500px){
   .logo{
     height: 40px;
     margin-left: 5px;
